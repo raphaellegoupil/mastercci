@@ -1,0 +1,15 @@
+body{background-color: #FEE9D8;}
+h1{border: double 2pt #DEB887; text-align: center; color: #DEB887; width: 60%; margin-left: 10%;}
+h1::first-letter{font-size: 250%; font-style: italic; color: #A52A2A;}
+p{font-family: 'Open Sans', sans-serif;}
+p::first-letter{font-size:250%; font-style: italic; font-weight: bold; color:#A52A2A;}
+fieldset{width: 80%; border: double 2pt #A52A2A; margin-top: 5pt; margin-bottom: 20pt;}
+img{width: 80%;}
+legend{font-weight: bold;}
+caption{font-weight: bold;}
+table{background-color: #DEB887; border: ridge 3pt #A52A2A;}
+#haut{background-color: #FEE9D8;}
+#gauche{float: left; width: 500px; padding-top: 20px; margin-left: 10pt;}
+#droite{float: right; width: 400px; padding-top: 20px;}
+.conteneur{width: 100%;}
+hr{border: ridge 4pt #A52A2A; padding: 1pt; margin-left: 0px; margin-right: 0px; width: 100%; clear: both;}

@@ -1,0 +1,8 @@
+h1{border: ridge 10pt; border-color: navy; background-color:#DDA0DD; font-family:arial; font-size: 16pt; color: navy; text-align: center; margin-bottom: 20pt; margin-left: auto; margin-right: auto; padding: 5pt; width: 30%;}
+p{color: purple; font-weight: bold;}
+a{font-family: "Courier New"; background-color: #D8BFD8;}
+table{background-color: rgb(255,105,180); width: 50%; margin-left: auto; margin-right: auto;}
+thead{text-align: center; height: 30pt;}
+tbody{background-color: rgb:(255,192,203);}
+.definition{border: ridge 5pt; border-color: #4B0082; background-color: rgb(176,224,230);}
+.bordure{border:dotted 3pt; border-color: white; padding-left: 3pt; padding-right: 5pt; color: #FF00FF;}

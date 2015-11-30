@@ -1,0 +1,6 @@
+h1{border: ridge 5pt; border-color: rgb(240,0,128); color: blue; text-align: center; padding: 2pt; margin-bottom: 30pt; margin-right: auto; margin-left: auto; width: 23%;}
+p{font-weight: bold; color: rgb(240,0,128); text-indent: 30pt;}
+select{font-style: italic; font-weight: bold; color: blue; background-color: aqua;}
+#haut{ background-color: aqua; padding: 10pt;}
+#milieu{background-color: lime; padding: 10pt;}
+#bas{background-color: rgb(0,191,255); padding: 10pt;}

@@ -1,0 +1,10 @@
+h1{border: ridge 3pt; border-color: #F08080; font-family: arial; font-weight: bold; color: rgb(128,0,0); text-align: center; padding: 3pt;margin-right: auto; margin-left: auto; width: 23%; }
+p{font-weight: bold; text-align: center;}
+h2{font-family: verdana; font-size: 14pt; color: rgb(128,0,0); text-decoration: underline; text-align: center;}
+ul{list-style-type: none; margin: 3pt; text-align: center;font-weight: bold;}
+#haut {background-color: #FFDAB9; padding-bottom: 6pt; padding-top: 6pt;margin-bottom: 5pt;}
+#gauche{float:left; width:33%; background-color: #DEB887; padding-bottom: 15pt; margin-bottom: 25pt;}
+#droite{float:right; width:33%; background-color: #CDA0A0; padding-bottom: 15pt; margin-bottom: 25pt;}
+#milieu{overflow:hidden; background-color: #FFFFA0; padding-bottom: 15pt; margin-bottom: 25pt;}
+
+hr{width: 4in; height: 4pt; color: #F08080;background-color: #F08080;}
